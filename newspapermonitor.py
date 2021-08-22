@@ -7,6 +7,7 @@ import pandas as pd
 from newspaper import Article
 from newspaper import news_pool
 import nltk
+nltk.download('punkt')
 
 def translate_text(target, text):
     """Translates text into the target language.
