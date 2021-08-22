@@ -16,7 +16,7 @@ def explicit():
     # Explicitly use service account credentials by specifying the private key
     # file.
     storage_client = storage.Client.from_service_account_json(
-        'proud-outrider-300302-4099f22965a7.json')
+        'proud-outrider-300302-5e146a547d46.json')
 
 def translate_text(target, text):
     """Translates text into the target language.

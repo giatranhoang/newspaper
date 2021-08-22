@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "proud-outrider-300302",
+  "private_key_id": "5e146a547d4680e6376720b7e56087b717ea4572",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8LRBzYWfGPM+K\nHNCG324lQ5/Pf8Mrr9qN3aTc7iUZ3TP9TYb0X97wkIUZ/Ufb6oJ8XulxO0A0jm38\nzYvW4QpJEqrPUmuJ8bxTZUHwjsNOvKmHz++7QmY+TQkbacmL+2M26Y8hYhqDpiFc\neoH1Ul6m8DaffKYN/3cJ/uzf56qiUH3rplHYoWwCEG8WgAfRYUdtN5hHRJm3UW7F\nEQPtDAd4dHob4Hx2uLEO70C/U8t0BpyUiAiWK/eR1peniYLeuy9CTlGlQjci/QmR\nU/O4isNrwrmPyOaX4NonGkYlrWHmzC5OZ4EyaIS7TQMyy5FzebvCriTassaVu87z\n68b8STVJAgMBAAECggEANRSHI+zRf4dOybg4EBt9b/CD5120OaIIxeTEKPfaKlIN\n5MFWNJ/IfNZfXUXnW77qYNfLBMBAa7LTjrCSZiIjqxojaYjnwckZJPMWpxs2N4Mb\nVS6QAqQHwEIts/hivGREh8xZLgME1KbrmTELcJ50CaYP2mwoUSGDPCQXQE+Sf+c1\nOVGKb4WLoQjJo6hOsvJpREMggd13Zzwot35kS7CcjWyIMrRFfwB7LeNLSMOOpx+L\nbXjWZB5GU+YrYeaDOEOxca60Sf7Dhxh9OHgIRPAAQxy6zugJiD/XW4w20YH7AHRt\nM7saqECWLf65Yt4O+BMhkSCxkz8xkPtln9fKQjptuwKBgQDyK11IOmKnjr0IGHDh\ntP1oCbCLVk9t9XXpCq2PJHAsCMXaeXRQupg/F+x68bQskxAsbBJZpmVEm7PgGb38\nRIvqiXvhDuYNoSsmfGi5Y8O/IjVa3u15yFedwocUgR5ved6seqouomTTqRDZYNW+\nNsTZzbeyfw1fTpUwHk+Z+IniOwKBgQDG7EpXugK07snMwTnUiTvCU5OAx4ZniTm5\nQtZz0e/LCjB7IMWHYjnotnrTNQyQREU7chQgYSy3tXrHc0qgofDReWO0gjz7sXFV\ntWm7gVRVDcqiYLGK9CUWCuNFgS3/VSpqRsi1AnNQYHhlicPH6+jL72DbwWkx9f7Z\nAZzzLa7qSwKBgDrSu7riq7oFmvcPcMPygac2y1JdKbgM6pIrzNK7SB/6FY0m+VDu\nsjKJLiEC+v/kzQXtTlvGZkzPAVdLCXHweIgE0zlstAbVgjS7/XgiupZ/ybQD+G0f\nc+DXMpaRcoIjeSouNY5UVedv5q7WrbShexlotdk+sVHYNbbVdgJxc5SnAoGBAJC+\nSM4SrHuJMU+K3hCXluMsuyy+gj7+LAFw7+iwvsJH9MTzMKf1Qlvhw/fBJxYmhxXd\nSWXSL56xL9jHPGsryrYxlOo4xjUChYwvB/OHBJ0q/uIuZ6HLSt0CKSNe/uBG0Skp\nvktvsAaxW4nOt6XWM7uIwDrHPks7SygOM20DNb6HAoGBAJpZARWvMLN93+yDqr7N\n33A2xOeQMkPdQIzwPG1nGvV8O/e9tC1tmy/0YSOh8kgpyw9nQdb48f6wGg5gu7Oo\nOTca+mGUtUhn8L5S1Dp+qTLG6SdYHyuj53fpIT1uDxW7ngDNEK7mtdxqOgfnkWew\nUORdZ82H6QWErnzoXM5l2Ajw\n-----END PRIVATE KEY-----\n",
+  "client_email": "covidnewspapervietnam@proud-outrider-300302.iam.gserviceaccount.com",
+  "client_id": "113935661538846886150",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/covidnewspapervietnam%40proud-outrider-300302.iam.gserviceaccount.com"
+}
