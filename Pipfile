@@ -7,8 +7,14 @@ name = "pypi"
 newspaper3k = "*"
 ipykernel = "*"
 pandas = "*"
+streamlit = "*"
+"google.cloud" = "*"
+google-cloud-translate = "==2.0.1"
+google-cloud-storage = "*"
+google = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.9"
