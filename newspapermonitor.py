@@ -9,6 +9,15 @@ from newspaper import news_pool
 import nltk
 nltk.download('punkt')
 
+
+def explicit():
+    from google.cloud import storage
+
+    # Explicitly use service account credentials by specifying the private key
+    # file.
+    storage_client = storage.Client.from_service_account_json(
+        'proud-outrider-300302-4099f22965a7.json')
+
 def translate_text(target, text):
     """Translates text into the target language.
 
