@@ -42,7 +42,7 @@ st.title("Press and Media Summary Generator App")
 
 summary = ''
 with st.form('my_form'):
-    url = st.text_input("Input URL of the news you want to summarize")
+    url = st.text_input("Input URL of the news you want to summarize:")
 
     submitted = st.form_submit_button('Submit')
     if submitted:
