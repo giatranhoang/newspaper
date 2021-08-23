@@ -38,7 +38,7 @@ def translate_text(target, text):
 def as_dict(self):
     return {'title': self.title, 'url':self.url}
 
-st.title("COVID-19 - Press and Media Monitor App")
+st.title("Press and Media Summary Generator App")
 
 summary = ''
 with st.form('my_form'):
