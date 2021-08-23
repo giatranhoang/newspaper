@@ -12,6 +12,7 @@ streamlit = "*"
 google-cloud-translate = "==2.0.1"
 google-cloud-storage = "*"
 google = "*"
+"google.oauth2" = "*"
 
 [dev-packages]
 ipykernel = "*"

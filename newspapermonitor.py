@@ -1,6 +1,8 @@
 # Import Streamlit library
 import streamlit as st
 
+from google.oauth2 import service_account
+
 # Import Newspaper library
 import newspaper
 import pandas as pd
@@ -8,6 +10,9 @@ from newspaper import Article
 from newspaper import news_pool
 import nltk
 nltk.download('punkt')
+
+credentials = service_account.Credentials.from_service_account_info(
+    st.secrets["gcp_service_account"])
 
 def translate_text(target, text):
     """Translates text into the target language.
@@ -18,7 +23,9 @@ def translate_text(target, text):
     import six
     from google.cloud import translate_v2 as translate
 
-    translate_client = translate.Client()
+    
+
+    translate_client = translate.Client(credentials=credentials)
 
     if isinstance(text, six.binary_type):
         text = text.decode("utf-8")
